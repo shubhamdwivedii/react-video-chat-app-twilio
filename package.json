@@ -10,8 +10,8 @@
     "npm-run-all": "^4.1.5",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1",
-    "twilio": "^3.31.0",
+    "react-scripts": "5.0.1",
+    "twilio": "^3.84.1",
     "twilio-video": "^2.0.0-beta9"
   },
   "proxy": "http://localhost:3001",
